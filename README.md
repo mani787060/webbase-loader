@@ -266,10 +266,3 @@ Through this project, you can understand:
 
 ---
 
-## Repository
-
-**GitHub:** https://github.com/mani787060/webbase-loader
-
-## License
-
-This project is intended for educational and learning purposes. Add a license file if you want to formally define reuse and distribution permissions.
