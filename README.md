@@ -263,6 +263,3 @@ Through this project, you can understand:
 - Avoid sending excessive requests to websites.
 - Some websites rely on JavaScript to render their content and may require a different extraction approach.
 - Extracted content may contain irrelevant or incomplete information depending on the website structure.
-
----
-
